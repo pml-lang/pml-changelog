@@ -78,6 +78,9 @@
                         Example: [c \[foo (a1=v1 a2=v2) ... \]]
                     ]
                     [el
+                        The [i attribute continuation character] [c \\] at the end of a line is no more necessary and therefore no more supported.
+                    ]
+                    [el
                         Attribute values that contain spaces must be enclosed in quotes.
 
                         Example: [c() path = "name with spaces.png"]
