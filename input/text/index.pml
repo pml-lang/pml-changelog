@@ -1,5 +1,8 @@
 [doc [title PML Changelog]
 
+    [u:set pml_url=https://www.pml-lang.dev/]
+    [u:set pml_docs_url=https://www.pml-lang.dev/docs/]
+
     [table
         [tr [tc [b Latest Update]][tc 2022-02-11]]
         [tr [tc [b First Published]][tc 2021-01-14]]
@@ -15,6 +18,7 @@
         PML uses [link url=https://semver.org/ text="Semantic Versioning"].
     ]
 
+    [u:ins_file path=version_3.0.0_2022-07-xx.pml]
     [u:ins_file path=version_2.3.0_2022-02-11.pml]
     [u:ins_file path=version_2.2.0_2021-12-14.pml]
     [u:ins_file path=version_2.1.0_2021-09-09.pml]

@@ -14,7 +14,7 @@
         ]
     ]
 
-    [ch [title Deprecated Features]
+    [ch (id=v_2_3_0_deprecated) [title Deprecated Features]
         [list
             [el
                 The syntax for nodes whose name is prefixed with [c !] has changed, as shown in the following table:
