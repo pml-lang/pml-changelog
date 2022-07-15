@@ -26,7 +26,7 @@
     ]
 
     [ch [title Bug Fixes]
-    
+
         The table of contents is now displayed correctly on devices with small screens.
     ]
 ]
