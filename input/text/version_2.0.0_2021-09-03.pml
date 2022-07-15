@@ -54,7 +54,7 @@
                 For all other nodes, the new [c header] node (see below) should be used instead of the old [c title] attribute.
 
                 Example:
-        
+
                 Old code:
                 [code
                     [el (title = "List element header")
@@ -84,7 +84,7 @@
                         Attribute values that contain spaces must be enclosed in quotes.
 
                         Example: [c() path = "name with spaces.png"]
-                        
+
                         For more information please refer to the [link url=https://www.pml-lang.dev/docs/user_manual/index.html#lenient_parsing text="user manual"].
                     ]
                 ]
@@ -123,7 +123,7 @@
                 [code
                     [!ins-file path=sub-chapter.pml]
                 code]
-        
+
                 For more information please refer to the [link url=https://www.pml-lang.dev/docs/user_manual/index.html#file_splitting text="user manual"]
 
                 [note
@@ -143,9 +143,9 @@
         [list
             [el
                 New parameter [c open_file_cmd] for command [c convert].
-                
+
                 This argument enables you to automatically open an editor for the first file in which an error was detected.
-                
+
                 For more information, type the following command in a terminal, and look for parameter [c open_file_cmd]:
                 [input
                     pmlc command_info -command convert
@@ -161,7 +161,7 @@
         [list
             [el
                 [c title]: A title for a chapter (can include markup, included in the table of contents)
-        
+
                 This node replaces the chapter's [c title] [i attribute], which is no more supported.
             ]
             [el
