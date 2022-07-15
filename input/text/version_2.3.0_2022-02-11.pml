@@ -7,7 +7,7 @@
                 Script nodes enable you to embed source code in a PML document, and execute it when the document is parsed.
                 For more information please refer to [link url=https://www.pml-lang.dev/docs/advanced_features/index.html#script_nodes text="Script Nodes"].
             ]
-            
+
             [el
                 Node [c table_data]: Besides using a comma or tab as cell separator, a vertical bar ([c |]) or a semicolon ([c ;]) can now also be used.
             ]
@@ -26,7 +26,7 @@
                 ]
                 The old syntax will no more be supported in a future version.
             ]
-            
+
             [el
                 The method to define user-defined-nodes will probably change in the future, as explained [link url=https://www.pml-lang.dev/docs/advanced_features/index.html#UDN_how text=here].
             ]

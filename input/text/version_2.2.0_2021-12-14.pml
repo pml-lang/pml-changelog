@@ -7,7 +7,7 @@
 
                 For more information please refer to chapter [link url=https://www.pml-lang.dev/docs/advanced_features/index.html#user_defined_nodes text="User-Defined Nodes"].
             ]
-            
+
             [el
                 Unicode escape sequences above FFFF are now supported. This is useful to insert emoticons and some Asian characters.
 
