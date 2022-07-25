@@ -10,7 +10,7 @@
                 ]
                 [el
                     [c table]: A table layout composed of rows and columns.
-                    
+
                     Besides just text, each cell in the table can have complex content, including nested tables. Conceptually similar to a HTML table.
                 ]
                 [el
@@ -35,7 +35,7 @@
         ]
 
         [ch [title New Command Line Arguments]
-            
+
             Added command line arguments [c HTML_header] and [c HTML_footer] to the [i PML to HTML Converter]. Allows you to:
             [list
                 [el Provide a custom HTML header/footer for each document, or generate only the HTML body code (no header/footer).]
