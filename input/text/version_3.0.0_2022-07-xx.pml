@@ -4,7 +4,7 @@
 
     The tool has been completely rewritten in Java (PPL is no longer used).
     Some features are therefore no longer available, some will be added again later.
-    
+
     However, there are only 2 minor changes related to the PML [i syntax]: the [c !] symbol and the [c caption] attribute are no longer supported, as explained below.
 
     Before deciding to upgrade to version 3.0, have a look at the changes described below.
@@ -17,7 +17,7 @@
                 Please refer to the [link url=[u:get pml_docs_url]commands_manual/index.html text="Commands Reference Manual"] to see the updated list of commands and arguments.
 
                 Most important breaking changes:
-                
+
                 [list
                     [el
                         The [c convert] command has been renamed to [c PML_to_HTML] (shortcut: [c p2h]) and is used as follows:
@@ -64,7 +64,7 @@
 
             [el
                 The following two fields have been removed from the [c pml_tags.json] file (created by the [c export_tags] command): [c default_attribute_id] and [c closing_tag].
-                
+
                 The [c position] field has been added to attributes as a replacement for [c default_attribute_id], which is more versatile for future improvements.
             ]
         ]
@@ -110,7 +110,7 @@
 
             [el
                 Semantic node validation is now implemented (but not yet applied to all nodes).
-                
+
                 For example, [c list] nodes can only contain [c el] nodes, and each [c el] node must be a child of a [c list] node.
             ]
 
