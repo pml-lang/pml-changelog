@@ -7,7 +7,7 @@
                 The tag's open/close symbols have changed from [c {}] to [c \[\]]
 
                 Example:
-        
+
                 Old version: [c {i great}]
 
                 New version: [c \[i great\]]
@@ -42,7 +42,7 @@
                 Attribute [c TOC_title] has been added to node [c document]
 
                 It defines the title displayed for the table of contents.
-                
+
                 The default value is "Table of Contents".
             ]
 
@@ -60,7 +60,7 @@
         [list
             [el
                 The Javascript code for expanding/collapsing the table of contents has been removed.
-                
+
                 The HTML [c <details>] tag is used instead.
             ]
 
