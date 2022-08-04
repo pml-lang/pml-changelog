@@ -8,6 +8,7 @@
 # Directories and files starting with NOGIT_
 **/NOGIT_*
 
+
 ############################
 ## COMMON IGNORE PATTERNS ##
 ############################

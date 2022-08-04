@@ -3,11 +3,12 @@
 ## Repository Configuration
 ###########################
 .editorconfig    text eol=lf
-.travis.yml      text eol=lf
 .gitattributes   text eol=lf
 .gitconfig       text eol=lf
 .gitignore       text eol=lf
+.gitkeep         text eol=lf
 .gitmodules      text eol=lf
+.travis.yml      text eol=lf
 
 ## Documentation Files
 ######################
@@ -19,5 +20,5 @@ LICENSE      text
 ## Scripts
 ##########
 *.bat   text eol=crlf
-*.com   text eol=crlf
+*.cmd   text eol=crlf
 *.sh    text eol=lf
