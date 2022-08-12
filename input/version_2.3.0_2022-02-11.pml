@@ -24,6 +24,7 @@
                     [tr [tc [c \[!get ...\]]][tc [c \[u:get ...\]]]]
                     [tr [tc [c \[!set ...\]]][tc [c \[u:set ...\]]]]
                 ]
+
                 The old syntax will no more be supported in a future version.
             ]
 
