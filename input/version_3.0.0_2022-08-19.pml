@@ -1,4 +1,4 @@
-[ch [title Version 3.0.0 2022-xx-xx]
+[ch [title Version 3.0.0 2022-08-19]
 
     PMLC 3.0.0 is a major update.
 
