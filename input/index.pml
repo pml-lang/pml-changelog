@@ -2,9 +2,10 @@
 
     [u:set pml_url=https://www.pml-lang.dev/]
     [u:set pml_docs_url=https://www.pml-lang.dev/docs/]
+    [u:set pml_refman_url=https://www.pml-lang.dev/docs/reference_manual/]
 
     [table
-        [tr [tc [b Latest Update]][tc 2022-08-19]]
+        [tr [tc [b Latest Update]][tc 2022-10-03]]
         [tr [tc [b First Published]][tc 2021-01-14]]
         [tr [tc [b License]][tc [link url=https://creativecommons.org/licenses/by-nd/4.0/ text="CC BY-ND 4.0"]]]
         [tr [tc [b Author and Copyright]][tc Christian Neumanns]]
@@ -18,6 +19,7 @@
         PML uses [link url=https://semver.org/ text="Semantic Versioning"].
     ]
 
+    [u:ins_file path=version_3.1.0_2022-10-03.pml]
     [u:ins_file path=version_3.0.0_2022-08-19.pml]
     [u:ins_file path=version_2.3.0_2022-02-11.pml]
     [u:ins_file path=version_2.2.0_2021-12-14.pml]
