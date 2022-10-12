@@ -23,7 +23,7 @@
     [ch (id=v_3_1_0_deprecated) [title Deprecated Features]
         [list
             [el
-                The [link url=https://pdml-lang.github.io/docs/extensions/reference_manual/index.html#raw_text_block_syntax text="Text Block Syntax"] used to define text in raw text blocks is now deprecated and will be removed in an upcoming major version.
+                The [link url=https://pdml-lang.dev/docs/extensions/reference_manual/index.html#raw_text_block_syntax text="Text Block Syntax"] used to define text in raw text blocks is now deprecated and will be removed in an upcoming major version.
 
                 For example, instead of writing:
                 [code
@@ -34,7 +34,7 @@
                     ~~~
                 ]
 
-                ... you need to use the [link url=https://pdml-lang.github.io/docs/extensions/reference_manual/index.html#raw_text_delimiter_syntax text="Delimited Text Syntax"] and write:
+                ... you need to use the [link url=https://pdml-lang.dev/docs/extensions/reference_manual/index.html#raw_text_delimiter_syntax text="Delimited Text Syntax"] and write:
                 [code
                     """
                     [code
